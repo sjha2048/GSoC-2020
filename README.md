@@ -65,6 +65,19 @@ In the middle of this phase we realized that there is one more approach possible
 
 Our decision of starting from scratch was benefecial and we made a great amount of progress with the new codebase, in this phase we mainly focussed on getting all the main components of compmodelmatch customized according to our needs and test them for stability, also we ported all the stylesheets from our previous codebase to our new platform. 
 
+## Deliverables 
+
+| Tasks   | Planned | Completed     |
+| :---:       |    :----:   |    :---:      |
+| Meetings      | Yes       | :heavy_check_mark:   |
+| Projects   | Yes        | :heavy_check_mark:      |
+| User Interface Bugs| Yes | :heavy_check_mark: |
+| New User Interface for Seek | Yes | :heavy_check_mark: |
+| OAuth Integration  | Yes (Planned to release in v1.11) | :heavy_check_mark: |
+| Github Action for Auto builds | No | :heavy_check_mark: |
+| Forum | Yes (In Progress) | :no_entry_sign: |
+| Setting up CI/CD | Yes | :heavy_check_mark: |
+
 ## To Do:  
 
 - Social Login release (will be released in next version, i.e, SEEK-1.11)
@@ -88,6 +101,21 @@ Here are couple of blog posts which I have written between my GSoC Journey.
 I used Notion to track progress of my project and also to collaborate with my mentors, I highly recommend using Notion to boost your productivity, below I have linked my kanban board for reference.
 
 [Notion Board]()
+
+
+## Future Scope 
+
+- Getting rid of default behaviour of Institutions 
+- Removal of stale and unnecessary code
+- Increasing unit test coverage
+
+## Key Learnings 
+
+- Gained major insight of software development lifecycle (Agile Methodolgy)
+- Importance of CI/CD and Unit tests 
+- An amazing framework; Ruby on Rails 
+- Major concepts of OOPs like abstraction and Inheritance  
+- Imporoved my collaboration and communication skills 
 
 ## Final Result
 
