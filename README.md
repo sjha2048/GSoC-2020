@@ -46,6 +46,10 @@ Compmodelmatch is the project to match researchers with different expertise. The
 
 - [seek-1.10](https://github.com/sjha2048/seek/commits/seek-1.10?author=sjha2048)
 
+## Repository URL
+
+[SEEK (Branch-Seek-1.10)](https://github.com/sjha2048/seek/tree/seek-1.10)
+
 
 ## Updates
 
@@ -108,6 +112,8 @@ I used Notion to track progress of my project and also to collaborate with my me
 - Getting rid of default behaviour of Institutions 
 - Removal of stale and unnecessary code
 - Increasing unit test coverage
+- Refine User Interface by making it more compact
+- Optimize the platform for mobile
 
 ## Key Learnings 
 
