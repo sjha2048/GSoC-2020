@@ -48,7 +48,7 @@ This codebase was based on SEEK-1.7 soon we realized that SEEK-1.10 would be bet
 
 #### On [Seek](https://github.com/sjha2048/seek/tree/seek-1.10)
 
-Switched to branch [SEEK-1.10] after May 12, 2020
+Switched to branch [SEEK-1.10] in later phase of GSoC
 
 - [seek-1.10](https://github.com/sjha2048/seek/commits/seek-1.10?author=sjha2048)
 
