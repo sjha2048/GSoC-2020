@@ -42,9 +42,13 @@ There exist a few systems which can satisfy our needs, we have selected SEEK pla
 
 #### On [compmodelmatch](https://github.com/pepe454/compmodelmatch)
 
+This codebase was based on SEEK-1.7 soon we realized that SEEK-1.10 would be better suited for our requirements 
+
 - [master](https://github.com/pepe454/CompModelMatch/commits?author=sjha2048)
 
 #### On [Seek](https://github.com/sjha2048/seek/tree/seek-1.10)
+
+Switched to branch [SEEK-1.10] after May 12, 2020
 
 - [seek-1.10](https://github.com/sjha2048/seek/commits/seek-1.10?author=sjha2048)
 
