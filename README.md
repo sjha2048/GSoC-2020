@@ -35,7 +35,7 @@ There exist a few systems which can satisfy our needs, we have selected SEEK pla
 - Automated Dockerhub deployments 
 
 
-**Mentors**: [@vcellmike](https://github.com/vcellmike) and [@pepe454](https://github.com/p)
+**Mentors**: [@vcellmike](https://github.com/vcellmike) and [@pepe454](https://github.com/pepe454)
 
 
 ## Commits Authored
