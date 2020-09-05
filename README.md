@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![ViewCount](https://views.whatilearened.today/views/github/sjha2048/GSoC-2020.svg)
+[![Twitter: sjha2048](https://img.shields.io/twitter/follow/sjha2048?style=social)](https://twitter.com/sjha2048)
+[![Linkedin: sjha2048](https://img.shields.io/badge/-sjha2048-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sjha2048/)]
 <div align="center">
     <a href="https://summerofcode.withgoogle.com/projects/#6091933446832128"><img src="https://i.imgur.com/d5n5JXA.png" width="720" alt="google-summer-of-code"></a>
     <h2>
@@ -140,3 +144,5 @@ I used Notion to track progress of my project and also to collaborate with my me
 - We have weekly meetings over google meet on every monday at 10am EST 
 - I will update the blog post section every week when the coding peroid starts
 - Project progress is being monitored on a Notion Kanban board, I will update the link of the board when coding period is over 
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-sjha2048-red)](https://github.com/sjha2048)
